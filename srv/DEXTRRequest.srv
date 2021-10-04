@@ -1,0 +1,4 @@
+sensor_msgs/Image image
+Point2D[4] points
+---
+sensor_msgs/Image mask
